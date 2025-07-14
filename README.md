@@ -13,7 +13,7 @@
 - 👕 **[Vrose Labs](https://github.com/theo-jenkins/vrose)**  
   Fashion store analytics platform – Full-stack insights powered by LSTM forecasting
 
-- 🧪 **[fMRI Brain Analysis Tool](https://github.com/theo-jenkins/fmri-analysis)** *(coming soon)*  
+- 🧪 **[fMRI Brain Analysis Tool](https://github.com/theo-jenkins/fmri-brain-scan-analyser)**
   Detects rare neural activity in public brain scans – MATLAB, matrix ops, gradient descent
 
 ---
